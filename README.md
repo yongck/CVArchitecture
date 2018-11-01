@@ -24,13 +24,17 @@ These values have carried through into the design and architecture we're proposi
 ## Usage 
 Denver is providing two diagrams as part of this repository, a _Conceptual view_ and a _data flow view_ of our CV system. Denver has also produced additional diagrams for internal stakeholders that detail networking and security protocols.
 
-_Conceptual View:_
-_add image_
+### Data Flow View:
+![Data Flow View][ImageDataFlowView]
+---
+### Conceptual View:
+![Conceptual View][ImageConceptualView]
 
-_Data Flow View:_
-_add image_
+### Supporting documents on Wiki?
+_add?_
 
-_Supporting documents on Wiki?_
+[ImageConceptualView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/CCDCVConceptDiagramV8%20(1).jpg "Conceptual View"
+[ImageDataFlowView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/CCDCVDataflowV8%20(1).jpg "Data Flow View"
 
 ## Contributing 
 Please provide comments on Denver's diagrams by using GitHub issues. The Denver program team will answer questions, and address suggestions using these issues. 
