@@ -15,19 +15,35 @@ Our approach is based on a set of values we’ve established with our Denver Sma
 
 These values have carried through into the design and architecture we're proposing:
 
-*	Denver will double-down on the investments the U.S. Department of Transportation has made in open source technologies, including the V2I Hub and the Operational Data Environment (ODE).
+*	Denver will double-down on the investments the U.S. Department of Transportation has made in open source technologies, including the [V2I Hub](https://www.itsforge.net/index.php/community/explore-applications#/40/148 "V2I Hub 3.2") and the [@JPO-ODE Operational Data Environment (ODE)](https://github.com/usdot-jpo-ode "Operational Data Environment").
 *	Denver will deploy CV applications as plug-ins on the V2I Hub to maintain interoperability across vendors.
 *	Denver will develop API endpoints from it’s cloud environment for external stakeholders, developers, and members of the public.
 *	Denver will utilize the USDOT Operational Data Environment to build in best practices for privacy and data security into it’s cloud environment.
-*	_Denver will publish other aspects of its code base to make this technology stack function, including device management platforms, other examples?_
+*	Denver will publish other aspects of its code base to make this technology stack function, including device management platforms.
 
-## Documents
+## Usage 
+Denver is providing two diagrams as part of this repository, a _CV Network view_ and a _Data Flow view_ of our CV system. Denver has also produced additional diagrams for internal stakeholders that detail networking and security protocols.
 
-Link to:
-1. High-level conceptual diagram
-2. Architecture Diagram with views
-3. Architecture Documentation _(we should post that as native files on GitHub here, or Confluence?)_
 
-Our architecture looks at different “views” of the system, including: Governance, Physical, Logical, Networking, Security, Middleware, and Application.
+### CV Network View:
+![CV Network][ImageCVNetworkView]
+Raw XML file for Draw.io: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Network%20Public.xml
 
-_This work is made possible by the FHWA Advanced Transportation and Congestion Management Technologies Deployment (ATCMTD) grant._
+---
+
+### Data Flow View:
+![Data Flow View][ImageDataFlowView]
+Raw XML file for Draw.io: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Data%20Flow%20Public.xml
+
+
+### Supporting documents on Wiki
+Please find additional documentation supporting these diagrams on the Repo's wiki page.
+
+[ImageCVNetworkView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Network%20Public.jpg "CV Network"
+[ImageDataFlowView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Data%20Flow%20Public.jpg "Data Flow View"
+
+## Contributing 
+Please provide comments on Denver's diagrams by using GitHub issues. The Denver program team will answer questions, and address suggestions using these issues. 
+
+## Credits
+This effort is the result of a tight collaboration across the Denver Smart City program, including colleagues from Public Works, Technology Services, Department of Public Health and Environment and the Mayor’s office, as well as from the Federal Highway Administration (FHWA). This work is made possible by the FHWA Advanced Transportation and Congestion Management Technologies Deployment (ATCMTD) grant.
