@@ -22,25 +22,28 @@ These values have carried through into the design and architecture we're proposi
 *	Denver will publish other aspects of its code base to make this technology stack function, including device management platforms.
 
 ## Usage 
-Denver is providing two diagrams as part of this repository, a _Conceptual view_ and a _data flow view_ of our CV system. Denver has also produced additional diagrams for internal stakeholders that detail networking and security protocols.
+Denver is providing two diagrams as part of this repository, a _CV Network view_ and a _Data Flow view_ of our CV system. Denver has also produced additional diagrams for internal stakeholders that detail networking and security protocols.
+
+
+### CV Network View:
+![CV Network][ImageCVNetworkView]
+Raw XML file for Draw.io: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Network%20Public.xml
+
+---
 
 ### Data Flow View:
 ![Data Flow View][ImageDataFlowView]
----
-### Conceptual View:
-![Conceptual View][ImageConceptualView]
+Raw XML file for Draw.io: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Data%20Flow%20Public.xml
 
-### Supporting documents on Wiki?
-_add?_
 
-[ImageConceptualView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/CCDCVConceptDiagramV8%20(1).jpg "Conceptual View"
-[ImageDataFlowView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/CCDCVDataflowV8%20(1).jpg "Data Flow View"
+### Supporting documents on Wiki
+Please find additional documentation supporting these diagrams on the Repo's wiki page.
+
+[ImageCVNetworkView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Network%20Public.jpg "CV Network"
+[ImageDataFlowView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Data%20Flow%20Public.jpg "Data Flow View"
 
 ## Contributing 
 Please provide comments on Denver's diagrams by using GitHub issues. The Denver program team will answer questions, and address suggestions using these issues. 
 
 ## Credits
 This effort is the result of a tight collaboration across the Denver Smart City program, including colleagues from Public Works, Technology Services, Department of Public Health and Environment and the Mayor’s office, as well as from the Federal Highway Administration (FHWA). This work is made possible by the FHWA Advanced Transportation and Congestion Management Technologies Deployment (ATCMTD) grant.
-
-## License
-_tbd_
