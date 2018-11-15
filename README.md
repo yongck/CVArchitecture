@@ -27,20 +27,20 @@ Denver is providing two diagrams as part of this repository, a _CV Network view_
 
 ### CV Network View:
 ![CV Network][ImageCVNetworkView]
-Raw XML file for Draw.io: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Network%20Public.xml
+Raw XML file for Draw.io: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/master/Denver%20CV%20Network%20Public.xml
 
 ---
 
 ### Data Flow View:
 ![Data Flow View][ImageDataFlowView]
-Raw XML file for Draw.io: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Data%20Flow%20Public.xml
+Raw XML file for Draw.io: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/master/Denver%20CV%20Data%20Flow%20Public.xml
 
 
 ### Supporting documents on Wiki
 Please find additional documentation supporting these diagrams on the Repo's wiki page.
 
-[ImageCVNetworkView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Network%20Public.jpg "CV Network"
-[ImageDataFlowView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/ReadMe-Updates/Denver%20CV%20Data%20Flow%20Public.jpg "Data Flow View"
+[ImageCVNetworkView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/master/Denver%20CV%20Network%20Public.jpg "CV Network"
+[ImageDataFlowView]: https://github.com/DenverConnectedVehicle/CVArchitecture/blob/master/Denver%20CV%20Data%20Flow%20Public.jpg "Data Flow View"
 
 ## Contributing 
 Please provide comments on Denver's diagrams by using GitHub issues. The Denver program team will answer questions, and address suggestions using these issues. 
