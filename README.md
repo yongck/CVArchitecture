@@ -4,7 +4,7 @@ Denver's high-level conceptual design and architecture for connected vehicle dep
 ## Background
 Connected vehicle technology, enabling vehicles to communicate with one another and with city infrastructure, holds the potential to dramatically improve the safety of our streets and reduce congestion. This repository serves to capture Denver's conceptual architecture, and shows our approach to implementing connected vehicle technology.
 
-We welcome comments and recommendations, provided as GitHub issues, on our approach. This repo will be a living space for Denver to refine it's achitecture with community input.
+We welcome comments and recommendations, provided as GitHub issues, on our approach. This repository will be a living space for Denver to refine it's achitecture with community input.
 
 ## Values
 Our approach is based on a set of values we’ve established with our Denver Smart City program:
@@ -15,7 +15,7 @@ Our approach is based on a set of values we’ve established with our Denver Sma
 
 These values have carried through into the design and architecture we're proposing:
 
-*	Denver will double-down on the investments the U.S. Department of Transportation has made in open source technologies, including the [V2I Hub](https://www.itsforge.net/index.php/community/explore-applications#/40/148 "V2I Hub 3.2") and the [@JPO-ODE Operational Data Environment (ODE)](https://github.com/usdot-jpo-ode "Operational Data Environment").
+*	Denver will build on the investments the U.S. Department of Transportation has made in open source technologies, including the [V2I Hub](https://www.itsforge.net/index.php/community/explore-applications#/40/148 "V2I Hub 3.2") and the [@JPO-ODE Operational Data Environment (ODE)](https://github.com/usdot-jpo-ode "Operational Data Environment").
 *	Denver will deploy CV applications as plug-ins on the V2I Hub to maintain interoperability across vendors.
 *	Denver will develop API endpoints from it’s cloud environment for external stakeholders, developers, and members of the public.
 *	Denver will utilize the USDOT Operational Data Environment to build in best practices for privacy and data security into it’s cloud environment.
