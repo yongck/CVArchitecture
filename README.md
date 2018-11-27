@@ -24,6 +24,7 @@ These values have carried through into the design and architecture we're proposi
 ## Usage 
 Denver is providing two diagrams as part of this repository, a _CV Network view_ and a _Data Flow view_ of our CV system. Denver has also produced additional diagrams for internal stakeholders that detail networking and security protocols.
 
+Supplemental documentation can also be found on the Wiki portion of this repository, here: https://github.com/DenverConnectedVehicle/CVArchitecture/wiki/CV-Architecture-Wiki
 
 ### CV Network View:
 ![CV Network][ImageCVNetworkView]
